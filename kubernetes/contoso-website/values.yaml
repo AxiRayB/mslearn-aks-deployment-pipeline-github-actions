@@ -1,0 +1,7 @@
+image:
+  registry: ContosoContainerRegistry3143
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: 1947b3a1fea2448fad96.uksouth.aksapp.io
